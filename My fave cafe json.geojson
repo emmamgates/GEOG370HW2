@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "My fave cafe json",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Grata" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -79.070771167728154, 35.911739831386079 ], [ -79.070680638971069, 35.911740499180105 ], [ -79.07067794636734, 35.911590024005392 ], [ -79.070769494893696, 35.911593295207872 ], [ -79.070771167728154, 35.911739831386079 ] ] ] ] } }
+]
+}
